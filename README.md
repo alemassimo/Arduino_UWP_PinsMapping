@@ -14,6 +14,10 @@ The application domain is based on two classes : AModule and APin
 public MainPage()
         {
           AModule SensorTemperature = new AModule("Temperature Sensor", "External temperature sensor");
+          
+          // pin name values A1,A2,A3,... analogic pins 
+          // pin name 1,2,3,4,... digital pins
+          
           APin TempPin = new APin("Temperature", "5", PinMode.SERIAL);
           SensorTemperature.pins.Add(TempPin);
 
