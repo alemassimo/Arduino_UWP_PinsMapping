@@ -1,4 +1,6 @@
-# Arduino UWP PinsMapping     -    Proj under development
+# Arduino UWP PinsMapping   
+
+  --- Proj under development ---
 Arduino Uwp library for pins mapping, based on Windows Remote Arduino Library (https://github.com/ms-iot/remote-wiring).
 
 This library simplifies the use of the Windows Remote Arduino Library .
