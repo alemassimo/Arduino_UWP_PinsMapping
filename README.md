@@ -3,7 +3,7 @@
   --- Proj under development ---
 Arduino Uwp library for pins mapping, based on Windows Remote Arduino Library (https://github.com/ms-iot/remote-wiring).
 
-This library simplifies the use of the Windows Remote Arduino Library .
+This library simplifies the use of the Windows Remote Arduino Library, useful in the context of iot project.
 
 The application domain is based on two classes : AModule and APin
 
